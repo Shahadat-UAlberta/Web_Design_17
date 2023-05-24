@@ -1,0 +1,7 @@
+font
+color
+image - png vs jpg
+padding/margin
+
+
+layer/layer group
